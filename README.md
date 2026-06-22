@@ -28,7 +28,6 @@
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
 
-## <a name="introduction">✨ Introduction</a>
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **[React](https://react.dev/)** is a popular open‑source JavaScript library for building user interfaces using reusable components and a virtual DOM, enabling efficient, dynamic single-page and native apps.
